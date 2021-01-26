@@ -1,0 +1,14 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "streaming-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "author": "john mckenna",
+  "license": "MIT",
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  }
+}
